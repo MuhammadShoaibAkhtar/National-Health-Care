@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.bg{
+    background-image: url("OSZB6Y0.jpg");
+
+    background-size: cover;
+}
+
+#header{
+    background-color: #3498db;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+
+#main{
+    width: 600px;
+    float: right;
+}
+#footer{
+    clear: both;
+}
+#ssp{
+
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 300px;
+}
+.bg1{
+    background-image:url("doctor.jpg") ;
+    background-size: cover;
+}
+
+

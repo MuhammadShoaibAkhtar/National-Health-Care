@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dfe6aed-bbb0-4517-a36a-49bb8154956f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7" />
+  <component name="ProjectId" id="1XLHWz9U1hKpp2ClvxjSVpW7smB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shoai\PhpstormProjects\Fianl Year Project" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dfe6aed-bbb0-4517-a36a-49bb8154956f" name="Default Changelist" comment="" />
+      <created>1580818489596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580818489596</updated>
+      <workItem from="1580818491002" duration="2121000" />
+      <workItem from="1581608666895" duration="59000" />
+      <workItem from="1581997062210" duration="1770000" />
+      <workItem from="1582004957146" duration="1064000" />
+      <workItem from="1582015725202" duration="1671000" />
+      <workItem from="1582017541311" duration="1826000" />
+      <workItem from="1582020289561" duration="1786000" />
+      <workItem from="1582022113011" duration="1781000" />
+      <workItem from="1582024022611" duration="848000" />
+      <workItem from="1582085861041" duration="2050000" />
+      <workItem from="1582956443065" duration="1203000" />
+      <workItem from="1583384737762" duration="1750000" />
+      <workItem from="1583387426020" duration="1348000" />
+      <workItem from="1588403237956" duration="1380000" />
+      <workItem from="1589712081717" duration="471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="25" key="#CLI_Interpreters" timestamp="1582018848853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="294" y="25" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1582018848853" />
+    <state x="406" y="0" key="#PHP" timestamp="1582018367938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1582018367938" />
+    <state x="494" y="125" key="FileChooserDialogImpl" timestamp="1583387956773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583387956773" />
+    <state x="518" y="296" key="NewPhpFileDialog" timestamp="1581997145365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1581997145365" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1582018853472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582018853472" />
+    <state x="390" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1589712081913">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583387426857" />
+    <state x="390" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1589712081913" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1582021707767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582021707767" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582023115018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582023115018" />
+  </component>
+</project>
